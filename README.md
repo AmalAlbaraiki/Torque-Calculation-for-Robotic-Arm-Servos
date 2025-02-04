@@ -1,0 +1,1 @@
+# Torque-Calculation-for-Robotic-Arm-Servos
